@@ -238,7 +238,6 @@ margin-right: auto;
   .abusteku-deagulus img {
 	width: 700px;
 	flex-shrink:0;
-	pointer-events: none;
   }
   
   #slaid1:checked~.adaptivny-slayder-lasekun .abusteku-deagulus {
