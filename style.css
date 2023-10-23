@@ -263,7 +263,8 @@ margin-right: auto;
   }
   
   marquee {
-	margin-top: 1000px;
+	margin-top: 10px;
+	font-weight: 300;
 	font-size: 22px;
 	text-shadow: -6px 6px 10px rgba(0,  58,  52, 0.5);
 
