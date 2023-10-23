@@ -177,6 +177,7 @@ margin-right: auto;
 	margin-top: 1200px;
 	box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
 	margin-left: auto;
+	pointer-events: none;
   }
   
   .adaptivny-slayder input[name="kadoves"] {
@@ -233,6 +234,7 @@ margin-right: auto;
 	width: 700px;
 	height: 700px;
 	transition: all 0.5s;
+	pointer-events: none;
   }
   
   .abusteku-deagulus img {
